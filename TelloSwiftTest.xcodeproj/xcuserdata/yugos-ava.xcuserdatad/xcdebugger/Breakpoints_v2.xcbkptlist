@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3BC9262C-D013-4524-B3BB-B7B9441D528D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E601B880-B7D7-4294-81CB-D98D682DA53A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TelloSwiftTest/TelloManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "send(command:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2381C51-1080-4769-8799-F63ADFCB549C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TelloSwiftTest/TelloManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "send(command:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F2381C51-1080-4769-8799-F63ADFCB549C - 195571e891aa7d9c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TelloSwiftTest.TelloManager.send(command: TelloSwiftTest.TelloCommands, completion: (Swift.Result&lt;(), Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TelloSwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugos-ava/Dev/Swift/Test/TelloSwiftTest/TelloSwiftTest/TelloManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+               <Location
+                  uuid = "F2381C51-1080-4769-8799-F63ADFCB549C - 19afe99fc0c2511"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Network.NWError&gt;) -&gt; () in TelloSwiftTest.TelloManager.send(command: TelloSwiftTest.TelloCommands, completion: (Swift.Result&lt;(), Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TelloSwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugos-ava/Dev/Swift/Test/TelloSwiftTest/TelloSwiftTest/TelloManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0128EC5-AB7F-4544-BEB9-8F7AF4841D8E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TelloSwiftTest/TelloManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "send(command:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B0128EC5-AB7F-4544-BEB9-8F7AF4841D8E - 1ada80aa53bd108a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TelloSwiftTest.TelloManager.send(command: TelloSwiftTest.TelloCommands) -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, ()&gt;"
+                  moduleName = "TelloSwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugos-ava/Dev/Swift/Test/TelloSwiftTest/TelloSwiftTest/TelloManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "B0128EC5-AB7F-4544-BEB9-8F7AF4841D8E - bc7546da39f1ada5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((RxSwift.SingleEvent&lt;()&gt;) -&gt; ()) -&gt; RxSwift.Disposable in TelloSwiftTest.TelloManager.send(command: TelloSwiftTest.TelloCommands) -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, ()&gt;"
+                  moduleName = "TelloSwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugos-ava/Dev/Swift/Test/TelloSwiftTest/TelloSwiftTest/TelloManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF074484-9419-478F-8F36-81CB8D217E17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TelloSwiftTest/TelloManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "send(command:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
